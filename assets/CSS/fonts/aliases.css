@@ -1,0 +1,123 @@
+.ti-cat4:before,.ti-cat40:before{content:"\e768";  }/*Coloquios*/
+.ti-cat5:before{content:"\e638"; }/*Seminarios*/
+.ti-cat6:before{content:"\e63c"; }/*Escuelas*/
+.ti-cat8:before{content:"\e63a"; }/*Jornadas*/
+.ti-cat9:before{content:"\e636"; }/*Workshops*/
+.ti-cat10:before{content:"\e640"; font-size: 110%; }/*Conferencias*/
+.ti-cat19:before{content:"\e637"; }/*Tesis*/
+.ti-cat22:before{content:"\e63f"  }/*CURSOS*/
+.ti-cat23:before{content:"\e63e"; }/*Doc Courses IMUS*/
+
+.ti-cat33:before{content:"\e639";                                         }/* Seminario PHD*/
+.ti-cat25:before{content:"\e638 \e6af"; }/* Seminario Mat-US*/
+.ti-cat36:before{content:"\e638 Doc";}  /* Seminario Doctorado*/
+.ti-cat38:before{ content:"\e63d";}               /* Seminario DPHD*/
+
+.ti-cat7:before 
+,.ti-cat11:before
+,.ti-cat12:before
+,.ti-cat13:before
+,.ti-cat14:before
+,.ti-cat15:before
+,.ti-cat16:before
+,.ti-cat17:before
+,.ti-cat18:before
+,.ti-cat24:before
+,.ti-cat26:before
+,.ti-cat28:before
+,.ti-cat30:before
+,.ti-cat35:before{content:"\e638";}
+
+.ti-cat20:before {font-family:"Arial",Georgia,Sans-Serif; content:"US";} /*Otros Eventos US*/
+.ti-catdoc:before{content: "P.Doc";} /*Programa de Doctroado*/
+
+/*-------------------*/
+
+
+.ti-plan:before, .ti-nes-pedido:before {
+    content: "\e69a";
+}
+
+
+.ti-nes-caja:before,.ti-cajafuerte:before {
+    content: "\e698";
+}
+
+/******************************/
+.ti-member:before, 
+.ti-people:before {
+	content: "\e67d";
+}
+.ti-book:before,
+.ti-aport:before {
+	content: "\e680";
+}
+
+.ti-bec:before,
+.ti-becarios:before {
+	content: "\e688";
+}
+.ti-vis:before,
+.ti-visitantes:before {
+	content: "\e689";
+}
+.ti-articles:before,
+.ti-doc-tesis:before {
+	content: "\e68a";
+}
+
+.ti-act:before,
+.ti-actividades:before {
+	content: "\e68e";
+}
+.ti-news:before,
+.ti-noticias:before {
+	content: "\e68f";
+}
+.ti-plan:before,
+.ti-nes-pedido:before {
+	content: "\e69a";
+}
+.ti-fut:before,
+.ti-tool-fut:before {
+	content: "\e659";
+}
+.ti-past:before,
+.ti-tool-past:before {
+	content: "\e645";
+}
+.ti-storage:before,
+.ti-tool-storage:before {
+	content: "\e64c";
+}
+.ti-server:before,
+.ti-tool-server:before {
+	content: "\e64e";
+}
+.ti-globe:before,
+.ti-tool-globe:before {
+	content: "\e663";
+}
+.ti-earth:before,
+.ti-tool-earth:before {
+	content: "\e665";
+}
+.ti-tags:before,
+.ti-tag:before {
+	content: "\e64b";
+}
+.ti-team:before,
+.ti-perall:before {
+	content: "\e655";
+}
+.ti-chart:before,
+.ti-informes:before {
+	content: "\e687";
+}
+.ti-artJCR:before{
+	content:"\e68d" ;
+}
+
+.ti-div:before {
+	content: "\e690";
+}
